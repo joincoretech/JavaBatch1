@@ -1,4 +1,4 @@
-package classs13;
+package class13;
 
 public class ReplaceDemo {
 	public static void main(String [] args) {

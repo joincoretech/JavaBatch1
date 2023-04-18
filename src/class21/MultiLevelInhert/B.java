@@ -7,3 +7,6 @@ public class B extends A {
         System.out.println("I am class B");
     }
 }
+// git add .
+// git commit -m "class 21 code"
+// git push
